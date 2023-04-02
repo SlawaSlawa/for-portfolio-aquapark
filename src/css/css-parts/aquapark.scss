@@ -13,7 +13,6 @@
 	border-radius: 3px;
 	position: relative;
 	width: 48%;
-	/*overflow: hidden;*/
 }
 
 .aquapark-item img {
@@ -34,7 +33,7 @@
 .aquapark-item:nth-child(2):before  {
 	content: "";
 	display: block;
-	background-image: url("../../img/aquapark-logos/lifebuoy-purple.png");
+	background-image: url("../img/aquapark-logos/lifebuoy-purple.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -48,7 +47,7 @@
 .aquapark-item:nth-child(3):before  {
 	content: "";
 	display: block;
-	background-image: url("../../img/aquapark-logos/lifebuoy-blue.png");
+	background-image: url("../img/aquapark-logos/lifebuoy-blue.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -62,7 +61,7 @@
 .aquapark-item:nth-child(3):after  {
 	content: "";
 	display: block;
-	background-image: url("../../img/aquapark-logos/lifebuoy-red.png");
+	background-image: url("../img/aquapark-logos/lifebuoy-red.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -76,7 +75,7 @@
 .aquapark-item:nth-child(4):before  {
 	content: "";
 	display: block;
-	background-image: url("../../img/aquapark-logos/lifebuoy-green.png");
+	background-image: url("../img/aquapark-logos/lifebuoy-green.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
